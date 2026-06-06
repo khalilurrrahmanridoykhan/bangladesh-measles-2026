@@ -1,0 +1,27 @@
+Date: June 6, 2026
+
+To the Editors,
+BMC Infectious Diseases
+
+Dear Editor,
+
+I am pleased to submit the manuscript titled "Epidemiology of the 2026 Measles Outbreak in Bangladesh: A Descriptive Analysis of National Surveillance Data with Vaccine Coverage Assessment" for consideration for publication in BMC Infectious Diseases.
+
+Bangladesh is currently experiencing its largest documented measles outbreak. This paper presents the first systematic epidemiological analysis of the 2026 outbreak using 62 days of daily national surveillance data (2 April – 2 June 2026) from the Directorate General of Health Services (DGHS). The analysis covers 73,362 suspected cases, 9,136 confirmed cases, and 90 confirmed deaths across all eight divisions of Bangladesh.
+
+Key findings include:
+- A doubling time of 6.1 days during the epidemic's early phase
+- Marked geographic concentration in Dhaka division (47% of confirmed cases)
+- A paradoxical null correlation between division-level MR campaign coverage and incidence (r = 0.097), suggesting that a reactive vaccination campaign launched during an active outbreak does not reduce transmission at the division level
+
+These findings have direct public health implications for Bangladesh's Expanded Programme on Immunization (EPI) and for countries with similar surveillance systems. All data are publicly available from DGHS press releases and are fully reproducible from our GitHub repository (https://github.com/khalilurrrahmanridoykhan/bangladesh-measles-2026).
+
+This manuscript has not been published elsewhere and is not under consideration by any other journal. The data are based entirely on publicly available, aggregated surveillance data with no patient-level identifiers; ethics review is therefore not applicable.
+
+I declare no competing interests and no funding sources.
+
+Sincerely,
+
+Khalilur Rahman Ridoy Khan
+East West University, Dhaka, Bangladesh
+Email: khalilurrahmanridoykhan@gmail.com

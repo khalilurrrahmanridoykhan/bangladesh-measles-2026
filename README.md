@@ -119,4 +119,6 @@ Paper: CC BY 4.0
 
 If you use this data or code, please cite:
 
-> Ridoy Khan KR. Epidemiology of the 2026 Measles Outbreak in Bangladesh: A Descriptive Analysis of National Surveillance Data with Vaccine Coverage Assessment. *medRxiv* [Preprint]. 2026. doi: [to be assigned]
+> Ridoy Khan KR. Epidemiology of the 2026 Measles Outbreak in Bangladesh: A Descriptive Analysis of National Surveillance Data with Vaccine Coverage Assessment. *Zenodo* [Preprint]. 2026. doi: 10.5281/zenodo.20569837
+
+**Preprint URL:** https://doi.org/10.5281/zenodo.20569837
