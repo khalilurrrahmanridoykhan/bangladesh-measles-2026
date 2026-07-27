@@ -1,0 +1,5 @@
+Variable,Beta,SE,t,p-value,R2,adj-R2
+Intercept,56.27,12.28,4.582,0.01,0.54,0.194
+Population Density (std),-6.71,17.93,-0.374,0.727,,
+MR Coverage (std),3.88,12.66,0.306,0.775,,
+Distance from Dhaka (std),-30.75,17.63,-1.744,0.156,,

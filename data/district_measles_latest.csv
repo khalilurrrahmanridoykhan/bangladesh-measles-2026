@@ -1,0 +1,7 @@
+date,district_bn,district,division,page,suspected_24h,suspected_cum,confirmed_24h,confirmed_cum,deaths_cum,hospitalized
+2026-06-21,চট্টগ্রাম,Chittagong,Chittagong,4,1,121,0.0,0.0,0.0,0.0
+2026-06-21,ঢাকা,Dhaka,Dhaka,3,1759,114488,,,,
+2026-06-21,মুন্সীগঞ্জ,Munshiganj,Dhaka,4,9,50,0.0,0.0,0.0,0.0
+2026-06-21,টাঙ্গাইল,Tangail,Dhaka,4,14,250,128.0,10.0,0.0,7.0
+2026-06-21,খুলনা,Khulna,Khulna,5,5,1,4.0,2.0,250.0,3.0
+2026-06-21,সুনামগঞ্জ,Sunamganj,Sylhet,5,4,250,100.0,0.0,0.0,0.0
